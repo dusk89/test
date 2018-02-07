@@ -1,4 +1,4 @@
---testing git with hello world
+--Testing git with hello world
 
 hello = do
         putStrLn "enter 1 for first message or 2 for second message."
