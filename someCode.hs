@@ -1,4 +1,4 @@
---Testing git with hello world
+--Testing git with hello world.
 
 hello = do
         putStrLn "enter 1 for first message or 2 for second message."
@@ -8,3 +8,5 @@ hello = do
 test x | x == "1" = print "hello world"
        | x == "2" = print "try 1"
        | otherwise = print "wrong"
+
+-- its working
